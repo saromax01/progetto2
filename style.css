@@ -1,0 +1,174 @@
+html {
+    height: 100%;
+    width: 100%;
+
+}
+body {
+    height: 100%;
+    width: 100%;
+    background-color: #E9EDEE;
+}
+header {
+    height: 90px;
+
+}
+.logosmall {       
+    width: 100%; 
+    height: 60px;
+    background-color: #222F3E;
+    position: relative; 
+    overflow: hidden;  
+    }
+
+.logosmall img {
+ position: absolute;
+ left: 20px;
+ top: 12px;
+ width: 120px;
+}
+.bottlogo {
+    background-color: #354759;
+    height: 30px;
+    
+}
+.bottlogo ul {
+    list-style: none;
+    padding-top: 5px;
+
+}
+.bottlogo li {
+    display: inline;
+    right: 16px;
+    padding-left: 14px;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif
+}
+.bottlogo a {
+    color: white;
+    text-decoration: none;
+    font-family:Arial, Helvetica, sans-serif
+    
+}
+
+.bottlogo a:hover {
+    text-decoration: underline;
+}
+main {
+    padding-inline: 40px;
+}
+section {
+    width: 100%;
+    height: 800px;
+    margin: 0;
+}
+.orangeshop {
+    margin-block: 30px;
+    background-color: #F76400;
+    text-align: center;
+    height: 35px;
+}
+.orangeshop a {
+    color: white;
+    text-decoration: none;
+    vertical-align: middle;
+    display: inline-block;
+    padding-top: 10px;
+    font-family:Arial, Helvetica, sans-serif
+
+}
+.greenchris {
+    width: 100%;
+    height: 200px;
+    background-image:url(./assets/img/bg-image.png);
+    text-align: center;
+    position: relative;
+    margin-bottom: 30px;
+}
+ 
+.greenchris h1 {           
+    color: white;
+    padding-top: 90px;
+    padding-bottom: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+
+    
+
+}
+.greenchris h3 {
+    color: white;
+    font-family:Arial, Helvetica, sans-serif
+
+}           
+
+.whiteshop {
+    background-color: white;
+    width: 100%;
+    height: 500px;
+    text-align: center;
+    
+    
+}
+.whiteshop h1 {
+    padding-top: 10px;
+    padding-left: 10px;
+    text-align: start;
+    font-family:Arial, Helvetica, sans-serif
+
+}
+.whiteshop a {
+    padding-left: 5px;
+    text-decoration: none;
+    color: #176171;
+}
+
+.erm1 {
+    height: 450px;
+    width: 290px;
+    padding-inline: 20px;
+    padding-top: 15px;
+    box-sizing:content-box;
+    border-radius: 10%;
+}
+article {
+    margin-top: 5px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+article img {
+    height: 450px;
+    width: 100%;
+    padding-top: 30px
+}
+article a {
+    color: #4D878A;
+    text-decoration: none;
+    padding-left: 10px;
+    font-family:Arial, Helvetica, sans-serif
+
+}
+footer {
+    text-align: center;
+}
+.bottlogo2 {
+    background-color: #354759;
+    height: 40px;
+}
+.bottlogo2 a {
+    margin-top: 10px;
+    color: white;
+    padding-top: 15px;
+    font-family:Arial, Helvetica, sans-serif
+
+}
+.logolarge {
+    width: 100%; 
+    height: 150px;
+    background-color: #222F3E;
+    position: relative; 
+    overflow: hidden;  
+}
+.logolarge img {
+    width: 140px;
+    padding-top: 50px;
+}
